@@ -1,2 +1,2 @@
-best_bois_courthouse:2.tcp.ngrok.io:15570
+2.tcp.ngrok.io:15570:best_bois_courthouse
 
